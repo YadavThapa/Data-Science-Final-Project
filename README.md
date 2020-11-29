@@ -1,1 +1,1 @@
-# Data-Science-Final-Project
+# Starbucks promotion Strategy using Machine Learning Algorithm
