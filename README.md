@@ -3,7 +3,7 @@
 ## Project Overview
 We all know the customer satisfaction drives business success and data analytics provides insight into what customers think. for e.g."360-degree customer view" refers to aggregating data describing a customer's purchases and customer service interactions.
 
-The "Starbucks" George Washington Data Science Capstone challenge data set is a simulation of customer behavior on the Starbucks rewards mobile application. Starbucks sends offers to its customres periodically that may be different mode of advertisements, discount offer, or buy one get one free (BOGO) promotion. The unique and important characteristics of this dataset is that not all users receive the same offer.
+The "Starbucks" George Washington Data Science Capstone challenge data set is a simulation of customer behavior on the Starbucks rewards mobile application. Starbucks sends offers to its customers periodically that may be different mode of advertisements, discount offer, or buy one get one free (BOGO) promotion. The unique and important characteristics of this dataset is that not all users receive the same offer.
 
 
 ### Datasets
