@@ -10,29 +10,29 @@ The "Starbucks" George Washington Data Science Capstone challenge data set is a 
 The given datasets contain three files. 
 
 Here is the schema and explanation of each variable in the files:
-### portfolio.json
-The first file describes the characteristics of each offer, including its duration and the amount a customer needs to spend to complete it (difficulty). 
-id (string) - offer id
-offer_type (string) - type of offer ie BOGO, discount, informational
-difficulty (int) - minimum required spend to complete an offer
-reward (int) - reward given for completing an offer
-duration (int) - time for offer to be open, in days
-channels (list of strings)
+### Portfolio.json
+The first file describes the characteristics of each offer, including its duration and the amount a customer needs to spend to complete it (difficulty). <br>
+1. id (string) - offer id 
+2. offer_type (string) - type of offer ie BOGO, discount, informational
+3. difficulty (int) - minimum required spend to complete an offer
+4. reward (int) - reward given for completing an offer
+5. duration (int) - time for offer to be open, in days
+6. channels (list of strings)
 
-### profile.json
+### Profile.json
 The second file contains customer demographic data including their age, gender, income, and when they created an account on the Starbucks rewards mobile application.
-age (int) - age of the customer
-became_member_on (int) - date when customer created an app account
-gender (str) - gender of the customer (note some entries contain 'O' for other rather than M or F)
-id (str) - customer id
-income (float) - customer's income
+1. age (int) - age of the customer
+2. became_member_on (int) - date when customer created an app account
+3. gender (str) - gender of the customer (note some entries contain 'O' for other rather than M or F)
+4. id (str) - customer id
+5. income (float) - customer's income
 
-### transcript.json
+### Transcript.json
 The third file describes customer purchases and when they received, viewed, and completed an offer. An offer is only successful when a customer both views an offer and meets or exceeds its difficulty within the offer's duration.
 
-event (str) - record description (ie transaction, offer received, offer viewed, etc.)
-person (str) - customer id
-time (int) - time in hours since start of test. The data begins at time t=0
-value - (dict of strings) - either an offer id or transaction amount depending on the record
+1. event (str) - record description (ie transaction, offer received, offer viewed, etc.)
+2. person (str) - customer id
+3. time (int) - time in hours since start of test. The data begins at time t=0
+4. value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 
