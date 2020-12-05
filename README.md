@@ -1,7 +1,7 @@
 # Starbucks promotion Strategy using Machine Learning Algorithm
 
 ## Project Overview
-We all know the customer satisfaction drives business success and data analytics provides insight into what customers think. "360-degree customer view" refers to aggregating data describing a customer's purchases and customer service interactions.
+We all know the customer satisfaction drives business success and data analytics provides insight into what customers think. for e.g."360-degree customer view" refers to aggregating data describing a customer's purchases and customer service interactions.
 
 The "Starbucks" George Washington Data Science Capstone challenge data set is a simulation of customer behavior on the Starbucks rewards mobile application. Periodically, Starbucks sends offers to users that may be an advertisement, discount, or buy one get one free (BOGO). An important characteristic regarding this dataset is that not all users receive the same offer.
 
