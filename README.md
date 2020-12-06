@@ -1,27 +1,27 @@
 # Starbucks Data Science Challenge
 
 <b> Table of content<br>
-1- Project Definition
-1.1- Project Overview <br>
-1.2- Problem Statement <br>
-1.3- Metrics <br>
-2- Exploratory Data Analysis<br>
-2.1- Data Exploration and Visualization<br>
-2.1.A- Portfolio Dataset <br>
-2.1.B- Profile Dataset <br>
-2.1.C- Transcript Dataset <br>
-2.2- Data Analysis <br>
-3- Data Preprocessing (Wrangling/Cleaning) <br>
-3.A- Portfolio Dataset <br>
-3.B- Profile Dataset <br>
-3.C-Transcript Dataset <br>
-4- Data Modeling <br>
-4.1- Modeling  <br>
-4.2- Model Evaluation <br>
-4.3- Model Refinement <br>
-5- Conclusion <br>
-6- Reflection <br>
-7- Improvement <br>
+#### 1- Project Definition
+#### 1.1- Project Overview 
+#### 1.2- Problem Statement
+#### 1.3- Metrics
+#### 2- Exploratory Data Analysis<br>
+#### 2.1- Data Exploration and Visualization<br>
+#### 2.1.A- Portfolio Dataset <br>
+#### 2.1.B- Profile Dataset <br>
+#### 2.1.C- Transcript Dataset <br>
+#### 2.2- Data Analysis <br>
+#### 3- Data Preprocessing (Wrangling/Cleaning) <br>
+#### 3.A- Portfolio Dataset <br>
+#### 3.B- Profile Dataset <br>
+#### 3.C-Transcript Dataset <br>
+#### 4- Data Modeling <br>
+#### 4.1- Modeling  <br>
+#### 4.2- Model Evaluation <br>
+#### 4.3- Model Refinement <br>
+#### 5- Conclusion <br>
+#### 6- Reflection <br>
+#### 7- Improvement <br>
 
 ## Project Overview
 We all know the customer satisfaction drives business success and data analytics provides insight into what customers think. for e.g."360-degree customer view" refers to aggregating data describing a customer's purchases and customer service interactions.
