@@ -58,6 +58,15 @@ The third file describes customer purchases and when they received, viewed, and 
 3. time (int) - time in hours since start of test. The data begins at time t=0
 4. value - (dict of strings) - either an offer id or transaction amount depending on the record
 
+### Conclusions
+The first step we went through was clustering the demographic information, which resulted in 6 clusters to work from. A 7th cluster was added where there was no demographic data present.
+- Where there as no data present (segment 7), they had lower representations in the completed and viewed population, ann higher representation in the completed and not viewed population. We would therefore recommend that costly offers such as discounts or BOGO are not sent to these customers.
+
+- When using logistic regression on both the demographic and offer data, by far the biggest impact was the type of offer (holding all other factors constant, an informational offer would decrease the chance of completeing by 99.7%, compared with a discount which would increase it by around 7 times. The biggest demographic impact was the income, and the longer a customer had been a member the more likely they are to complete.
+
+- Most of the clusters got similar regression values, with the main exception of group 4 (younger male, lower income) who reacted negatively instead of positively to mobile advertisements.
+
+- Ultimatly this was on simulated data, which did show in some of the scatter plots. It would be more interesting to try this on real world data, which would also add more depth to the reccomendations. It was however interesting how the different models generalised well to the test data, even though the test data contained recent data with (in theory) a different mix of customers.
 
 ### Future Improvements
 1. This data set has more potential to solving many queries and it can be utilized to answer many posed questions related customer interaction based on the Age and income as a whole too.
