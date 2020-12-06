@@ -59,7 +59,7 @@ The third file describes customer purchases and when they received, viewed, and 
 
 ### Results Summary
 
-Model ranking based on training data accuracy
+Following accuracy results have been recieved from the testing datasets.
 - SVM model accuracy: 73.14%
 - Decision Classifier : 97.55%
 - Naive Bayse: 60.46%
