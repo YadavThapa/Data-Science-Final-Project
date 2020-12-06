@@ -72,4 +72,12 @@ The first step we went through was clustering the demographic information, which
 2. Testing additional machine learning models.
 3. Making a web app
 
-
+### Python Libraries Used
+-Python Data Analysis Library
+-Numpy
+-Matplotlib
+-seaborn: Statistical Data Visualization
+-re: Regular expression operations
+-os — Miscellaneous operating system interfaces
+-scikit-learn: Machine Learning in Python
+-Joblib: running Python functions as pipeline jobs
