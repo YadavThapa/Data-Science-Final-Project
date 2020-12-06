@@ -36,3 +36,9 @@ The third file describes customer purchases and when they received, viewed, and 
 4. value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 
+### Future Improvements
+1. This data set has more potential to solving many queries and it can be utilized to answer many posed questions related customer interaction based on the Age and income as a whole too.
+2. Testing additional machine learning models.
+3. Making a web app
+
+
