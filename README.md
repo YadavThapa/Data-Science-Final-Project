@@ -1,9 +1,9 @@
 # Starbucks Data Science Challenge
 
 <b> Table of content<br>
-#### 1- Project Definition
-#### 1.1- Project Overview 
-#### 1.2- Problem Statement
+- 1 Project Definition
+- 1.1- Project Overview 
+- 1.2- Problem Statement
 #### 1.3- Metrics
 #### 2- Exploratory Data Analysis<
 #### 2.1- Data Exploration and Visualization
