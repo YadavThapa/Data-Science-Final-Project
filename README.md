@@ -1,7 +1,7 @@
 # Starbucks Data Science Challenge
 
 <b> Table of content<br>
-1- Project Definition <br>
+1- Project Definition
 1.1- Project Overview <br>
 1.2- Problem Statement <br>
 1.3- Metrics <br>
