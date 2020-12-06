@@ -2,10 +2,10 @@
 
 <b> Table of content<br>
 - 1 Project Definition
-- 1.1- Project Overview 
-- 1.2- Problem Statement
-- 1.3- Metrics
-- 2- Exploratory Data Analysis<
+- 1.1 Project Overview 
+- 1.2 Problem Statement
+- 1.3 Metrics
+- 2 Exploratory Data Analysis<
 - 2.1- Data Exploration and Visualization
 - 2.1.A- Portfolio Dataset
 - 2.1.B- Profile Dataset
