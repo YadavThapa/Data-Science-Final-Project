@@ -4,24 +4,24 @@
 - 1 Project Definition
 - 1.1- Project Overview 
 - 1.2- Problem Statement
-#### 1.3- Metrics
-#### 2- Exploratory Data Analysis<
-#### 2.1- Data Exploration and Visualization
-#### 2.1.A- Portfolio Dataset
-#### 2.1.B- Profile Dataset
-#### 2.1.C- Transcript Dataset
-#### 2.2- Data Analysis
-#### 3- Data Preprocessing (Wrangling/Cleaning)
-#### 3.A- Portfolio Dataset
-#### 3.B- Profile Dataset
-#### 3.C-Transcript Dataset
-#### 4- Data Modeling
-#### 4.1- Modeling
-#### 4.2- Model Evaluation
-#### 4.3- Model Refinement
-#### 5- Conclusion
-#### 6- Reflection
-#### 7- Improvement
+- 1.3- Metrics
+- 2- Exploratory Data Analysis<
+- 2.1- Data Exploration and Visualization
+- 2.1.A- Portfolio Dataset
+- 2.1.B- Profile Dataset
+- 2.1.C- Transcript Dataset
+- 2.2- Data Analysis
+- 3- Data Preprocessing (Wrangling/Cleaning)
+- 3.A- Portfolio Dataset
+- 3.B- Profile Dataset
+- 3.C-Transcript Dataset
+- 4- Data Modeling
+- 4.1- Modeling
+- 4.2- Model Evaluation
+- 4.3- Model Refinement
+- 5- Conclusion
+- 6- Reflection
+- 7- Improvement
 
 ## Project Overview
 We all know the customer satisfaction drives business success and data analytics provides insight into what customers think. for e.g."360-degree customer view" refers to aggregating data describing a customer's purchases and customer service interactions.
