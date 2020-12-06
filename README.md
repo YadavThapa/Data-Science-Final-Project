@@ -57,6 +57,17 @@ The third file describes customer purchases and when they received, viewed, and 
 3. time (int) - time in hours since start of test. The data begins at time t=0
 4. value - (dict of strings) - either an offer id or transaction amount depending on the record
 
+### Results Summary
+
+Model ranking based on training data accuracy
+- SVM model accuracy: 73.14%
+- Decision Classifier : 97.55%
+- Naive Bayse: 60.46%
+- Knn : 82.41%.
+- RandomForestClassifier model accuracy: 87.5%.
+- Adaboostclassifer: 75.38%
+- LogisticRegression model: 73.36%.
+
 ### Conclusions
 The first step we went through was clustering the demographic information, which resulted in 6 clusters to work from. A 7th cluster was added where there was no demographic data present.
 - Where there as no data present (segment 7), they had lower representations in the completed and viewed population, ann higher representation in the completed and not viewed population. We would therefore recommend that costly offers such as discounts or BOGO are not sent to these customers.
