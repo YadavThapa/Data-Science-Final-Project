@@ -31,9 +31,8 @@ The unique and important characteristics of this dataset is that not all users r
 
 
 ### Datasets
-The given datasets contain three files. 
+The given datasets contain three files. Here is the schema and explanation of each variable in the files:
 
-Here is the schema and explanation of each variable in the files:
 ### Portfolio.json
 The first file describes the characteristics of each offer, including its duration and the amount a customer needs to spend to complete it (difficulty). <br>
 1. id (string) - offer id 
