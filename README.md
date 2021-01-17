@@ -84,6 +84,10 @@ The first step we went through was clustering the demographic information, which
 2. Testing additional machine learning models.
 3. Making a web app
 
+### Recommendation
+From the above analysis, we came to conclusion that the simulation behavioural study of Starbuck promotion strategy can be studied with the help of Supervised Machine Learning Model. It suggests that Income, Age, Duration, tennure of membership established are the key factor influencing the completion of marketing promotion. Hence Business should formulate the marketing and promotion strategy keeping these above enfluencing factors in high priority which can help to generate the high sales and turnover.  
+
+
 ### Python Libraries Used
 - Python Data Analysis Library
 - Numpy
@@ -93,3 +97,4 @@ The first step we went through was clustering the demographic information, which
 - os — Miscellaneous operating system interfaces
 - scikit-learn: Machine Learning in Python
 - Joblib: running Python functions as pipeline jobs
+- Tableau for Data visualization
